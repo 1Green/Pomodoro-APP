@@ -16,3 +16,10 @@ h1 {
   font-weight: bold;
   font-size: 3em;
 }
+
+
+.taskdone {
+	background-color: #CCC;
+	color:#333;
+
+}
